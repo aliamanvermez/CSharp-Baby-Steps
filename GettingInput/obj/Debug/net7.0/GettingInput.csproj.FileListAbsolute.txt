@@ -1,0 +1,14 @@
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/bin/Debug/net7.0/GettingInput
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/bin/Debug/net7.0/GettingInput.deps.json
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/bin/Debug/net7.0/GettingInput.runtimeconfig.json
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/bin/Debug/net7.0/GettingInput.dll
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/bin/Debug/net7.0/GettingInput.pdb
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.AssemblyInfoInputs.cache
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.AssemblyInfo.cs
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.csproj.CoreCompileInputs.cache
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.dll
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/refint/GettingInput.dll
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.pdb
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/GettingInput.genruntimeconfig.cache
+/Users/aliamanvermez/Desktop/Code Academy C#/GettingInput/obj/Debug/net7.0/ref/GettingInput.dll
